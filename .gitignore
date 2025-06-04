@@ -19,3 +19,6 @@ Thumbs.db
 # Ignore any temporary or log files
 *.log
 *.tmp
+
+# Binary ephemeris file provided by NASA’s Jet Propulsion Laboratory (JPL)
+de421.bsp
